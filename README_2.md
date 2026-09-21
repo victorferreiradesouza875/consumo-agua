@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.6%2B-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 ![Tipo](https://img.shields.io/badge/tipo-CLI-blue)
-![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-yellow)
 ![Idioma](https://img.shields.io/badge/idioma-pt--BR-green)
 
 Programa em Python que recebe o **tipo de imóvel** e o **consumo mensal de água (m³)** e exibe uma classificação de acordo com regras de negócio pré-definidas.
